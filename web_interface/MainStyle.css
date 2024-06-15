@@ -1,0 +1,57 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    text-align: center;
+    height: 100%;
+    margin: 0;
+}
+.d-felx{
+    height: 100%;
+}
+#streamBox {
+    width: 80%;
+    height: 50%;
+    max-width: 640px;
+    max-height: 480px;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    margin: 0;
+}
+.Controller{
+    
+}
+.D_btn{
+    margin-right:5px;
+    margin-top: 5px;
+    padding: 6px 15px;
+    font-size: 1.5em;
+}
+.u_btn{
+    margin-right: 5px;
+    padding: 8px 12px;
+    font-size: 1.5em;
+}
+#connectColapse{
+    width:35%;
+    padding: 5px;
+    border: 6px solid #17a2b8 ;
+}
+#logList{
+    max-height: 50%;
+}
+
+.joy{
+    width: fit-content;
+    height: fit-content;
+}
+#elementContainer{
+    width: auto;
+    max-height: 80%;
+    margin-top: 10%;
+}
+#light_btn{
+    position: absolute;
+    right:10px ;
+}
